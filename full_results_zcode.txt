@@ -1,0 +1,539 @@
+There is no z_coding for x =  1
+when k =  1
+
+There is no z_coding for x =  1
+when k =  2
+
+There is no z_coding for x =  1
+when k =  3
+
+There is no z_coding for x =  1
+when k =  4
+
+X TO ENCODE IS:  2
+k is:  1
+h is:  1
+Bot limit:  2.0
+Top limit:  3.0
+x var is:  0.0
+z var is:  1.0
+Minimal_binary_code results
+s is:  0
+Result is:  0
+Result is in binary:  0
+Minimal_binary_code RETURN
+x=2 ,k=1, z_code=1100
+
+There is no z_coding for x =  2
+when k =  2
+
+There is no z_coding for x =  2
+when k =  3
+
+There is no z_coding for x =  2
+when k =  4
+
+X TO ENCODE IS:  3
+k is:  1
+h is:  1
+Bot limit:  2.0
+Top limit:  3.0
+x var is:  1.0
+z var is:  1.0
+Minimal_binary_code results
+s is:  0
+Result is:  1
+Result is in binary:  1
+Minimal_binary_code RETURN
+x=3 ,k=1, z_code=1101
+
+There is no z_coding for x =  3
+when k =  2
+
+There is no z_coding for x =  3
+when k =  3
+
+There is no z_coding for x =  3
+when k =  4
+
+X TO ENCODE IS:  4
+k is:  1
+h is:  2
+Bot limit:  4.0
+Top limit:  7.0
+x var is:  0.0
+z var is:  3.0
+Minimal_binary_code results
+s is:  2
+Result is:  0
+Minimal_binary_code RETURN
+x=4 ,k=1, z_code=11100
+
+X TO ENCODE IS:  4
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  0.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  000
+Minimal_binary_code RETURN
+x=4 ,k=2, z_code=110000
+
+There is no z_coding for x =  4
+when k =  3
+
+There is no z_coding for x =  4
+when k =  4
+
+X TO ENCODE IS:  5
+k is:  1
+h is:  2
+Bot limit:  4.0
+Top limit:  7.0
+x var is:  1.0
+z var is:  3.0
+Minimal_binary_code results
+s is:  2
+Result is:  2
+Result is in binary:  10
+Minimal_binary_code RETURN
+x=5 ,k=1, z_code=111010
+
+X TO ENCODE IS:  5
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  1.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  001
+Minimal_binary_code RETURN
+x=5 ,k=2, z_code=110001
+
+There is no z_coding for x =  5
+when k =  3
+
+There is no z_coding for x =  5
+when k =  4
+
+X TO ENCODE IS:  6
+k is:  1
+h is:  2
+Bot limit:  4.0
+Top limit:  7.0
+x var is:  2.0
+z var is:  3.0
+Minimal_binary_code results
+s is:  2
+Result is:  3
+Result is in binary:  11
+Minimal_binary_code RETURN
+x=6 ,k=1, z_code=111011
+
+X TO ENCODE IS:  6
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  2.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  010
+Minimal_binary_code RETURN
+x=6 ,k=2, z_code=110010
+
+There is no z_coding for x =  6
+when k =  3
+
+There is no z_coding for x =  6
+when k =  4
+
+X TO ENCODE IS:  7
+k is:  1
+h is:  2
+Bot limit:  4.0
+Top limit:  7.0
+x var is:  3.0
+z var is:  3.0
+Minimal_binary_code results
+s is:  2
+Result is:  4
+Result is in binary:  100
+Minimal_binary_code RETURN
+x=7 ,k=1, z_code=1110100
+
+X TO ENCODE IS:  7
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  3.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  011
+Minimal_binary_code RETURN
+x=7 ,k=2, z_code=110011
+
+There is no z_coding for x =  7
+when k =  3
+
+There is no z_coding for x =  7
+when k =  4
+
+X TO ENCODE IS:  8
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  0.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  00
+Minimal_binary_code RETURN
+x=8 ,k=1, z_code=1111000
+
+X TO ENCODE IS:  8
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  4.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  100
+Minimal_binary_code RETURN
+x=8 ,k=2, z_code=110100
+
+X TO ENCODE IS:  8
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  0.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00000
+Minimal_binary_code RETURN
+x=8 ,k=3, z_code=11000000
+
+There is no z_coding for x =  8
+when k =  4
+
+X TO ENCODE IS:  9
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  1.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  2
+Result is in binary:  010
+Minimal_binary_code RETURN
+x=9 ,k=1, z_code=11110010
+
+X TO ENCODE IS:  9
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  5.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  10
+Result is in binary:  1010
+Minimal_binary_code RETURN
+x=9 ,k=2, z_code=1101010
+
+X TO ENCODE IS:  9
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  1.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00001
+Minimal_binary_code RETURN
+x=9 ,k=3, z_code=11000001
+
+There is no z_coding for x =  9
+when k =  4
+
+X TO ENCODE IS:  10
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  2.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  3
+Result is in binary:  011
+Minimal_binary_code RETURN
+x=10 ,k=1, z_code=11110011
+
+X TO ENCODE IS:  10
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  6.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  11
+Result is in binary:  1011
+Minimal_binary_code RETURN
+x=10 ,k=2, z_code=1101011
+
+X TO ENCODE IS:  10
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  2.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00010
+Minimal_binary_code RETURN
+x=10 ,k=3, z_code=11000010
+
+There is no z_coding for x =  10
+when k =  4
+
+X TO ENCODE IS:  11
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  3.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  4
+Result is in binary:  100
+Minimal_binary_code RETURN
+x=11 ,k=1, z_code=11110100
+
+X TO ENCODE IS:  11
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  7.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  12
+Result is in binary:  1100
+Minimal_binary_code RETURN
+x=11 ,k=2, z_code=1101100
+
+X TO ENCODE IS:  11
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  3.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00011
+Minimal_binary_code RETURN
+x=11 ,k=3, z_code=11000011
+
+There is no z_coding for x =  11
+when k =  4
+
+X TO ENCODE IS:  12
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  4.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  5
+Result is in binary:  101
+Minimal_binary_code RETURN
+x=12 ,k=1, z_code=11110101
+
+X TO ENCODE IS:  12
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  8.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  13
+Result is in binary:  1101
+Minimal_binary_code RETURN
+x=12 ,k=2, z_code=1101101
+
+X TO ENCODE IS:  12
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  4.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00100
+Minimal_binary_code RETURN
+x=12 ,k=3, z_code=11000100
+
+There is no z_coding for x =  12
+when k =  4
+
+X TO ENCODE IS:  13
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  5.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  6
+Result is in binary:  110
+Minimal_binary_code RETURN
+x=13 ,k=1, z_code=11110110
+
+X TO ENCODE IS:  13
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  9.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  14
+Result is in binary:  1110
+Minimal_binary_code RETURN
+x=13 ,k=2, z_code=1101110
+
+X TO ENCODE IS:  13
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  5.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00101
+Minimal_binary_code RETURN
+x=13 ,k=3, z_code=11000101
+
+There is no z_coding for x =  13
+when k =  4
+
+X TO ENCODE IS:  14
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  6.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  7
+Result is in binary:  111
+Minimal_binary_code RETURN
+x=14 ,k=1, z_code=11110111
+
+X TO ENCODE IS:  14
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  10.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  15
+Result is in binary:  1111
+Minimal_binary_code RETURN
+x=14 ,k=2, z_code=1101111
+
+X TO ENCODE IS:  14
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  6.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00110
+Minimal_binary_code RETURN
+x=14 ,k=3, z_code=11000110
+
+There is no z_coding for x =  14
+when k =  4
+
+X TO ENCODE IS:  15
+k is:  1
+h is:  3
+Bot limit:  8.0
+Top limit:  15.0
+x var is:  7.0
+z var is:  7.0
+Minimal_binary_code results
+s is:  3
+Result is:  8
+Result is in binary:  1000
+Minimal_binary_code RETURN
+x=15 ,k=1, z_code=111101000
+
+X TO ENCODE IS:  15
+k is:  2
+h is:  1
+Bot limit:  4.0
+Top limit:  15.0
+x var is:  11.0
+z var is:  11.0
+Minimal_binary_code results
+s is:  4
+Result is:  16
+Result is in binary:  10000
+Minimal_binary_code RETURN
+x=15 ,k=2, z_code=11010000
+
+X TO ENCODE IS:  15
+k is:  3
+h is:  1
+Bot limit:  8.0
+Top limit:  63.0
+x var is:  7.0
+z var is:  55.0
+Minimal_binary_code results
+s is:  6
+Result is:  00111
+Minimal_binary_code RETURN
+x=15 ,k=3, z_code=11000111
+
+There is no z_coding for x =  15
+when k =  4
+
